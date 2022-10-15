@@ -1,0 +1,53 @@
+.onlineparents {
+  height: 500px;
+  width: 500px;
+  background-color: rgb(94, 94, 168);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.gaurav {
+  font-weight: 100px;
+  font-size: medium;
+  color: skyblue;
+  margin-left: 300px;
+  margin-top: 40px;
+}
+.januka {
+  font-size: medium;
+  font-weight: bold;
+}
+.roshan {
+  font-size: x-small;
+  font-weight: 100px;
+  color: aliceblue;
+}
+.ambika {
+  font-size: small;
+  font-weight: bold;
+}
+.sumitra {
+  font-size: small;
+  font-weight: bold;
+}
+.krishpan {
+  height: 20px;
+  width: 25%;
+  background-color: rgb(136, 136, 217);
+  border: none;
+  margin-bottom: 5px;
+  color: aliceblue;
+  font-size: 15px;
+}
+.krishna {
+  height: 20px;
+  width: 25%;
+  background-color: rgb(251, 251, 255);
+  border: 5px;
+  margin-bottom: 5px;
+  color: rgb(5, 3, 3);
+
+  border-color: black;
+  border-style: outset;
+  box-sizing: initial;
+}

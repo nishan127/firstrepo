@@ -1,0 +1,51 @@
+.fullpageprofile{
+    height:100vh;
+    width: 100vw;
+    background-color:rgb(189, 187, 187);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.marutiprofile{
+    height:600px;
+    width: 650px;
+    background-color: aliceblue;
+    padding: 25px;
+    
+}
+.roman{
+    height:190px;
+    width: 190px;
+    border-radius:500px ;
+}
+.nishan{
+    font-size: 25px;
+    margin-bottom:20px;
+    margin-left: 350px;
+    border-bottom: 3px solid red;
+    color: blue;
+    
+
+}
+
+.pankaj{
+font-size: 15px;
+margin-left: 350px;
+
+}
+.sumitra{
+    font-size: 13px;
+    
+}
+.key{
+   width: 200px;
+   
+}
+.value{
+    margin-left: 30px;
+}
+.pk{
+    display: flex;
+    flex-direction: row;
+
+}

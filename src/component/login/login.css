@@ -1,0 +1,40 @@
+.fullpage{
+    height: 100vh; 
+    width: 100vw;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contener{
+    height: 350px;
+    width: 500px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+}
+.login{
+font-size: 32px;
+margin-top: 32px;
+margin-bottom: 32px;
+
+}
+.logininput{
+    height:32px;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sumitButton{
+    height: 35px;
+    width: 80%;
+    background-color: rgb(106, 106, 190);
+    border: none;
+    margin-bottom: 10px;
+    color: aliceblue;
+    font-size: 24px;
+}
+   
